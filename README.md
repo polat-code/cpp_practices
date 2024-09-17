@@ -4,5 +4,5 @@
 --------------------------------------------------------------------------------------
 <p>cppBasics Folder - It contains the basics of C++.</p>
 -----------------
-<p>loginRegistrationPractice - This project is a login and registration project in terminal with C++.</p>
+<p>loginRegistrationPractice Folder - This project is a login and registration project in terminal with C++.</p>
 -----------------
