@@ -1,8 +1,8 @@
-### C++ Projects
+# C++ Projects
 
-This project includes the basics and fundamental projects of C++ to learn C++ syntax .
+<p>This project includes the basics and fundamental projects of C++ to learn C++ syntax .</p>
 --------------------------------------------------------------------------------------
-cppBasics Folder - It contains the basics of C++.
+<p>cppBasics Folder - It contains the basics of C++.</p>
 -----------------
-loginRegistrationPractice - This project is a login and registration project in terminal with C++.
+<p>loginRegistrationPractice - This project is a login and registration project in terminal with C++.</p>
 -----------------
